@@ -20,6 +20,7 @@ It guides, challenges, surprises, and, most importantly, stays with you long aft
 <h3 align="center">CONTACT ME</h3>
 
 <p align="center">
+  <a href="https://nikotimo.com/">Portfolio</a> |
   <a href="https://www.linkedin.com/in/nikotimo/">LinkedIn</a> |
   <a href="mailto:nikotimo11@gmail.com">nikotimo11@gmail.com</a>
 </p>
